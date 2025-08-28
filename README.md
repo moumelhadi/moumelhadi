@@ -26,6 +26,16 @@
 
 ---
 
+<h2 align="center">📊 My GitHub Stats:</h2>
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=moumelhadi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Moammel's Github Stats">
+</br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
+</p>
+
+---
+
 <h2 align="left">:heart: Let's get connected:</h2>
 
 [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadymwml570@gmail.com)
